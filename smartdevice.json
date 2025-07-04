@@ -1,0 +1,10 @@
+{
+  "smokedetector001": {
+    "Is On": true,
+    "detect fire": false
+  },
+  "smokedetector002": {
+    "Is On": true,
+    "detect fire": true
+  }
+}
